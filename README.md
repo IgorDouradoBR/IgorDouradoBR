@@ -10,7 +10,7 @@
   </a>
 </p>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IgorDouradoBR&label=Profile%20views&color=0e75b6&style=flat" alt="IgorDouradoBR" /> </p>
 

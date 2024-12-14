@@ -2,7 +2,7 @@
 <h2 align="center"> Desenvolvedor </h2>
 
   <p align="center">🧑🏻‍💻 Sou formado em Ciência da Computação pela PUCRS, desenvolvo plenamente em back-end e front-end. As linguagens que domino, em ordem das que tenho mais prática são: Swift, Java, Python, SQL/MySql, JavaScript, Dart, C, HTML, CSS, Go, frameworks específicos, react, flask e outras tecnologias específicas </p>
-  <p align="center">📍 Nasci na Bahia e moro há 5 anos em Porto Alegre</p>
+  <p align="center">📍 Nasci na Bahia e moro há 6 anos em Porto Alegre</p>
 
   <h2 align="center">Linguagens e tecnologias</h2>
    <p align="center">

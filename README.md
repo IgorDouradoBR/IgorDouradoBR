@@ -1,13 +1,13 @@
 <h1 align="center"> Oi, eu sou o dev Igor Dourado! 👋</h1>
 <h2 align="center"> Desenvolvedor </h2>
 
-  <p align="center">🧑🏻‍💻 Atualmente no 8° semestre do curso de Ciência da Computação na PUCRS, desenvolvo plenamente em back-end e estou evoluindo em front-end. As linguagens que domino, em ordem das que tenho mais prática são: Swift, Java, Python, SQL/MySql, JavaScript, Swift, C, HTML, CSS, Go, frameworks específicos, react, flask e outras tecnologias específicas </p>
+  <p align="center">🧑🏻‍💻 Sou formado em Ciência da Computação pela PUCRS, desenvolvo plenamente em back-end e front-end. As linguagens que domino, em ordem das que tenho mais prática são: Swift, Java, Python, SQL/MySql, JavaScript, Dart, C, HTML, CSS, Go, frameworks específicos, react, flask e outras tecnologias específicas </p>
   <p align="center">📍 Nasci na Bahia e moro há 5 anos em Porto Alegre</p>
 
   <h2 align="center">Linguagens e tecnologias</h2>
    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,swift,js,html,css,react,mysql,go,c,git,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,java,swift,js,html,css,react,mysql,go,c,dart,git,figma&theme=light" />
   </a>
 </p>
 
